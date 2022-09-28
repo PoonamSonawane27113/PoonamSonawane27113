@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
+
 **nil6197/nil6197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working as a DevOps Engineer.
+- 🌱 I’m currently learning how to teach.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 My current project: Using spot virtual machines from AWS, GCP, Azure as per pricing and saving cost for the org.
+- 📫 How to reach me: nilkanthchakar82367@gmail.com, wa.me/919075706197
+- 😄 Pronouns: NK
+- ⚡ Fun fact: I have worked as Java Developer, Web Designer, DevOps Engineer, Technical Trainer, Hadoop Admin all in 2 years with well versed knowledge in all this completely different domains
+- Here goes the list if techs I work on:  
+      DevOps Tools: Git, Jenkins, Kubernetes, Docker,
+      Clouds: AWS, Azure
+      Data Platform: Hadoop. Cloudera Data Platform
+      OS: Linux/Unix, Windows server 
+      Languages: Java ,Python, PHP
+      Project Management: Jira and Azure board
+
