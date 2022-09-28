@@ -8,10 +8,10 @@ Let me tell you a few things about myself,
 - 😄 Pronouns: NK
 - ⚡ Fun fact: I have worked as Java Developer, Web Designer, DevOps Engineer, Technical Trainer, Hadoop Admin all in 2 years with well versed knowledge in all this completely different domains
 - Here goes the list if techs I work on:  
-      DevOps Tools: Git, Jenkins, Kubernetes, Docker,
-      Clouds: AWS, Azure
-      Data Platform: Hadoop. Cloudera Data Platform
-      OS: Linux/Unix, Windows server 
-      Languages: Java ,Python, PHP
-      Project Management: Jira and Azure board
+      DevOps Tools: Git, Jenkins, Kubernetes, Docker.
+      Clouds: AWS, Azure.
+      Data Platform: Hadoop, Cloudera Data Platform.
+      OS: Linux/Unix, Windows server.
+      Languages: Java ,Python, PHP.
+      Project Management: Jira and Azure board.
 
