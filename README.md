@@ -6,7 +6,7 @@ Let me tell you a few things about myself,
 - 🤔 My current project: Using spot virtual machines from AWS, GCP, Azure as per pricing and saving cost for the org.
 - 📫 How to reach me: nilkanthchakar82367@gmail.com, [Hey WhatsApp](https://wa.me/919075706197).
 - 😄 Pronouns: NK
-- Here goes the list if techs I work on:  
+- Here goes the list of techs I work on:  
       DevOps Tools: Git, Jenkins, Kubernetes, Docker.
       Clouds: AWS, Azure.
       Data Platform: Hadoop, Cloudera Data Platform.
