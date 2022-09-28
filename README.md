@@ -1,7 +1,6 @@
 ### Hola 👋 
 Let me tell you a few things about myself,
 - 🔭 I’m currently working as a DevOps Engineer.
-- 🌱 I’m currently learning how to teach.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 My current project: Using spot virtual machines from AWS, GCP, Azure as per pricing and saving cost for the org.
 - 📫 How to reach me: nilkanthchakar82367@gmail.com, [Hey WhatsApp](https://wa.me/919075706197).
