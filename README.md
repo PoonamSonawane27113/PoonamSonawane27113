@@ -12,5 +12,5 @@ Let me tell you a few things about myself,
       OS: Linux/Unix, Windows server.
       Languages: Java ,Python, PHP.
       Project Management: Jira and Azure board.
-- ⚡ Fun fact: I have worked as Java Developer, Web Designer, DevOps Engineer, Technical Trainer, Hadoop Admin all in 2 years with well versed knowledge in all this completely different domains
+- ⚡ Fun fact: 
 
